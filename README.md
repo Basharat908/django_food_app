@@ -1,4 +1,4 @@
-# django_food_app
+# django_food_management_app
 
 Requirements
 python get-pip.py
